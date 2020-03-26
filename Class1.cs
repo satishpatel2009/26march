@@ -6,5 +6,13 @@ namespace _26march
 {
     class Class1
     {
+
+        public void xyz()
+
+        {
+
+
+            Console.WriteLine("I am Satish");
+        }
     }
 }
