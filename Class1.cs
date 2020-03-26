@@ -13,6 +13,9 @@ namespace _26march
 
 
             Console.WriteLine("I am Satish");
+
+            Console.WriteLine("I am Satish working very hard to learn Github");
+
         }
     }
 }
